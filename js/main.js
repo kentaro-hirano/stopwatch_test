@@ -30,9 +30,7 @@
         alert("3秒経過");
     }
 
-    let alertmsg = function() {
-        alert("3秒経過");
-    }
+
 
 
 
